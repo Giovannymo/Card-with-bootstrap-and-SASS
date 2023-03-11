@@ -18,3 +18,7 @@ Your users should be able to:
 # ABOUT CODE DESIGN
  
  I did make a design using HTML, CSS, BOOTSTRAP AND SASS.
+ 
+ # RESULT
+ 
+ - ## clinquant-chebakia-33f202.netlify.app
