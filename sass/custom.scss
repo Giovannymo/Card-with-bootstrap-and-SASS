@@ -1,0 +1,17 @@
+ //VARIABLES 
+
+ $primary:  hsl(216, 50%, 16%);
+ $info: hsl(178, 100%, 50%);
+ $secondary: hsl(215, 51%, 70%);
+ $light: hsl(215, 32%, 27%);
+ $dark: hsl(217, 54%, 11%);
+
+ $font-family-sans-serif: 'Outfit', sans-serif; ;
+
+ .card-footer img{
+  width: 50px;
+  height: 50px
+
+  
+ }
+@import "../node_modules/bootstrap/scss/bootstrap";
