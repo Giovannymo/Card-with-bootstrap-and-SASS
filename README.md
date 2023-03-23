@@ -21,4 +21,4 @@ Your users should be able to:
  
  # RESULT
  
- - ## https://clinquant-chebakia-33f202.netlify.app
+ - ## https://nftgiovannysocas.netlify.app
